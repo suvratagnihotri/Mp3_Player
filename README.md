@@ -9,6 +9,6 @@ Install below packages in python
 4. ttkthemes
 
 ## How to Execute
-1. git clone https://github.com/abidsal04/MusicPlayer.git
+1. git clone https://github.com/suvratagnihotri/Mp3_Player.git
 2. cd MusicPlayer
 3. python main.py
